@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JS, React, Angular, Django, NodeJS**
 
-- 📫 How to reach me **hsyn06arslan@gmail.com, https://www.linkedin.com/in/h%C3%BCseyin-arslan-1752b121a/**
+- 📫 How to reach me **hsyn06arslan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
